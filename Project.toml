@@ -1,0 +1,12 @@
+name = "PrivateExample5"
+uuid = "b779afd4-3ec9-11eb-1d66-4fbaf804c50b"
+version = "0.5.4"
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
